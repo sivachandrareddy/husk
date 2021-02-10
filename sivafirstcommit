@@ -1,0 +1,10 @@
+My first Program in Git 
+
+class tyson{
+ public static void main(String args[]){
+ 
+ System.out.println("Hello world!!! ")
+    }
+ }
+ 
+ 
