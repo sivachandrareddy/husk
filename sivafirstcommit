@@ -11,4 +11,15 @@ class tyson{
  
  Thank you all Floks
  
+ NEW CODE INTALIZATION;
+ 
+ class siva{
+  public static void main(String args[]){
+    int a,b,c;
+    a,b,c = 10,21,15;
+    int d = a*b*c;
+    System.out.println(print d);
+   }
+  }
+ 
  
